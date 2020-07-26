@@ -1,0 +1,1 @@
+app-top-bar{display:flex;flex-direction:row;justify-content:space-between;align-items:center;padding:16px 16px 16px 0}router-outlet+*{padding:0 16px}.company{display:flex;flex-direction:row;justify-content:space-between;align-items:center;padding-left:0}
